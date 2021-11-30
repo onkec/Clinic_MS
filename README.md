@@ -1,2 +1,2 @@
 # Clinic_MS
-Clinic Management System in  C#
+Clinic Stock Management System in  C#
